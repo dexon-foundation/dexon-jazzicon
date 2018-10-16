@@ -1,12 +1,12 @@
 module.exports = [
-	'#01888C', // teal
-  '#FC7500', // bright orange
-  '#034F5D', // dark teal
+  '#623164', // dark DEXON purple
+  '#954A97', // DEXON purple
+  '#B973BA', // light DEXON purple
+  '#0C7961', // dark COBINHOOD green
+  '#13BF99', // COBINHOOD green
+  '#3676A5', // dark COBLET blue
+  '#5D9CCA', // COBLET blue
+  '#F5A623', // bright orange
   '#F73F01', // orangered
-  '#FC1960', // magenta
-  '#C7144C', // raspberry
-  '#F3C100', // goldenrod
-  '#1598F2', // lightning blue
-  '#2465E1', // sail blue
-  '#F19E02', // gold
+  '#5E6C75', // gray
 ]
