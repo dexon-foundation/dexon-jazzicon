@@ -1,5 +1,5 @@
 {
-  "name": "jazzicon",
+  "name": "@dexon-foundation/jazzicon",
   "version": "2.0.0",
   "description": "DEXON blocklattice address identicon generator",
   "main": "index.js",
