@@ -1,7 +1,7 @@
 {
   "name": "@dexon-foundation/jazzicon",
   "version": "2.0.2",
-  "description": "DEXON blocklattice address identicon generator",
+  "description": "DEXON address identicon generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
